@@ -9,12 +9,12 @@ from plugins.helper_functions.cust_p_filters import f_onw_fliter
 
 # -- Constants -- #
 ALIVE = "<b>ചത്തിട്ടില്ല മുത്തേ ഇവിടെ തന്നെ ഉണ്ട്.. നിനക്ക് ഇപ്പൊ എന്നോട് ഒരു സ്നേഹവും ഇല്ല. കൊള്ളാം.. നീ പാഴെ പോലെയേ അല്ല മാറിപോയി..😔 ഇടക്ക് എങ്കിലും ചുമ്മാ ഒന്ന് Start ചെയ്തു നോക്ക്..🙂</b>" 
-HELP = "<b>Help ഒന്നും ഇല്ല ഓടിക്കോ......</b>"
-REPO = "<b>⪼ 𝚁𝙴𝙿𝙾 ›› <a href='https://github.com/Aadhi000/Ajax'>𝙰𝙳𝚅-𝙰𝙹𝙰𝚇</a></b>"
-CHANNEL = "<b>⪼ 𝙾𝚄𝚁 𝙲𝙷𝙰𝙽𝙽𝙴𝙻 ››<a href=https://t.me/+veUIdIW2CQ5mOGU5>𝙼𝚆-𝚄𝙿𝙳𝙰𝚃𝙴𝚂</a></b>"
-GROUP = "<b><b>⪼ 𝙲𝙻𝙸𝙲𝙺 𝙷𝙴𝚁𝙴 ›› <a href='https://t.me/+EqhXLhL3T1w4Zjc1'>𝙼𝙾𝚅𝙸𝙴𝚂 𝚆𝙾𝚁𝙻𝙳</a></b></b>"
-OWNER = "<b>╭━━━━━━━━━━━━━━━➣</b>\n<b>┣⪼ 𝙼𝚈 𝙽𝙰𝙼𝙴 ›› <a href='https://t.me/Devil0Bot_Bot'>𝙰𝙹𝙰𝚇</a></b>\n<b>┣⪼ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁 ›› <a href='https://t.me/Aadhi011/'>ꪖꪖᦔꫝỉ </a></b>\n<b>┣⪼ 𝚂𝙾𝚄𝚁𝙲𝙴 𝙲𝙾𝙳𝙴 ›› <a href='https://github.com/Aadhi000/Ajax'>𝙰𝙳𝚅-𝙰𝙹𝙰𝚇</a></b>\n<b>┣⪼ 𝙳𝙰𝚃𝙰𝙱𝙰𝚂𝙴 ›› 𝙼𝙾𝙽𝙶𝙾 𝙳𝙱</b>\n<b>┣⪼ 𝙻𝙸𝙱𝚁𝙰𝚁𝚈 ›› 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼</b>\n<b>┣⪼ 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴 ›› 𝙿𝚈𝚃𝙷𝙾𝙽</b>\n<b>╰━━━━━━━━━━━━━━━➣</b>"
-AJAX = "<b>╭━━━━━━━━━━━━━━━➣</b>\n<b>┣⪼ 𝙼𝚈 𝙽𝙰𝙼𝙴 ›› <a href='https://t.me/Devil0Bot_Bot'>𝙰𝙹𝙰𝚇</a></b>\n<b>┣⪼ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁 ›› <a href='https://t.me/Aadhi011/'>ꪖꪖᦔꫝỉ </a></b>\n<b>┣⪼ 𝚂𝙾𝚄𝚁𝙲𝙴 𝙲𝙾𝙳𝙴 ›› <a href='https://github.com/Aadhi000/Ajax'>𝙰𝙳𝚅-𝙰𝙹𝙰𝚇</a></b>\n<b>┣⪼ 𝙳𝙰𝚃𝙰𝙱𝙰𝚂𝙴 ›› 𝙼𝙾𝙽𝙶𝙾 𝙳𝙱</b>\n<b>┣⪼ 𝙻𝙸𝙱𝚁𝙰𝚁𝚈 ›› 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼</b>\n<b>┣⪼ 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴 ›› 𝙿𝚈𝚃𝙷𝙾𝙽</b>\n<b>╰━━━━━━━━━━━━━━━➣</b>"
+HELP = "<b>✮ Help ഒന്നും ഇല്ല ഓടിക്കോ......</b>"
+REPO = "<b>✮ 𝚁𝙴𝙿𝙾 ›› <a href=https://github.com/Aadhi000/Ajax>𝙰𝙳𝚅-𝙰𝙹𝙰𝚇</a></b>"
+CHANNEL = "<b>✮ 𝙾𝚄𝚁 𝙲𝙷𝙰𝙽𝙽𝙴𝙻 ›› <a href=https://t.me/+veUIdIW2CQ5mOGU5>𝙼𝚆-𝚄𝙿𝙳𝙰𝚃𝙴𝚂</a></b>"
+GROUP = "<b><b>✮ 𝙲𝙻𝙸𝙲𝙺 𝙷𝙴𝚁𝙴 ›› <a href=https://t.me/+EqhXLhL3T1w4Zjc1>𝙼𝙾𝚅𝙸𝙴𝚂 𝚆𝙾𝚁𝙻𝙳</a></b></b>"
+OWNER = "<b>╭━━━━━━━━━━━━━━━➣</b>\n<b>┣⪼ 𝙼𝚈 𝙽𝙰𝙼𝙴 ›› <a href=https://t.me/Devil0Bot_Bot>𝙰𝙹𝙰𝚇</a></b>\n<b>┣⪼ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁 ›› <a href=https://t.me/Aadhi011/>ꪖꪖᦔꫝỉ </a></b>\n<b>┣⪼ 𝚂𝙾𝚄𝚁𝙲𝙴 𝙲𝙾𝙳𝙴 ›› <a href=https://github.com/Aadhi000/Ajax>𝙰𝙳𝚅-𝙰𝙹𝙰𝚇</a></b>\n<b>┣⪼ 𝙳𝙰𝚃𝙰𝙱𝙰𝚂𝙴 ›› 𝙼𝙾𝙽𝙶𝙾 𝙳𝙱</b>\n<b>┣⪼ 𝙻𝙸𝙱𝚁𝙰𝚁𝚈 ›› 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼</b>\n<b>┣⪼ 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴 ›› 𝙿𝚈𝚃𝙷𝙾𝙽</b>\n<b>╰━━━━━━━━━━━━━━━➣</b>"
+AJAX = "<b>╭━━━━━━━━━━━━━━━➣</b>\n<b>┣⪼ 𝙼𝚈 𝙽𝙰𝙼𝙴 ›› <a href=https://t.me/Devil0Bot_Bot>𝙰𝙹𝙰𝚇</a></b>\n<b>┣⪼ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁 ›› <a href=https://t.me/Aadhi011/>ꪖꪖᦔꫝỉ </a></b>\n<b>┣⪼ 𝚂𝙾𝚄𝚁𝙲𝙴 𝙲𝙾𝙳𝙴 ›› <a href=https://github.com/Aadhi000/Ajax>𝙰𝙳𝚅-𝙰𝙹𝙰𝚇</a></b>\n<b>┣⪼ 𝙳𝙰𝚃𝙰𝙱𝙰𝚂𝙴 ›› 𝙼𝙾𝙽𝙶𝙾 𝙳𝙱</b>\n<b>┣⪼ 𝙻𝙸𝙱𝚁𝙰𝚁𝚈 ›› 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼</b>\n<b>┣⪼ 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴 ›› 𝙿𝚈𝚃𝙷𝙾𝙽</b>\n<b>╰━━━━━━━━━━━━━━━➣</b>"
 # -- Constants End -- #
 
 

@@ -37,26 +37,26 @@ async def ping(_, message):
     await rm.edit(f"Pong!\n{time_taken_s:.3f} ms")
 
 
-@Client.on_message(filters.command("channel", COMMAND_HAND_LER) & f_onw_fliter)
+@Client.on_message(filters.command("repo", COMMAND_HAND_LER) & f_onw_fliter)
 async def repo(_, message):
     await message.reply_text(REPO)
 
 
-@Client.on_message(filters.command("help", COMMAND_HAND_LER) & f_onw_fliter)
-async def help_me(_, message):
+@Client.on_message(filters.command("channel", COMMAND_HAND_LER) & f_onw_fliter)
+async def channel(_, message):
     await message.reply_text(CHANNEL)
 
 
 @Client.on_message(filters.command("group", COMMAND_HAND_LER) & f_onw_fliter)
-async def help_me(_, message):
+async def group(_, message):
     await message.reply_text(GROUP)
 
 
 @Client.on_message(filters.command("owner", COMMAND_HAND_LER) & f_onw_fliter)
-async def help_me(_, message):
+async def owner(_, message):
     await message.reply_text(OWNER)
 
 
 @Client.on_message(filters.command("ajax", COMMAND_HAND_LER) & f_onw_fliter)
-async def help_me(_, message):
-    await message.reply_text(ajax)
+async def ajax(_, message):
+    await message.reply_text(AJAX)

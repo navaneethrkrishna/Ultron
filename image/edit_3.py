@@ -161,4 +161,3 @@ async def red_border(client, message):
                 )
             except Exception:
                 return
-A

@@ -9,4 +9,4 @@ fi
 cd /Ajax
 pip3 install -U -r requirements.txt
 echo "{me_username} Started"
-python3 ulrtron_robot.py
+echo  python3 ulrtron_robot.py

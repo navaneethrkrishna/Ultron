@@ -405,4 +405,3 @@ async def removebg_sticker(client, message):
                 )
             except Exception:
                 return
-A

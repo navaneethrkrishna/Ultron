@@ -96,4 +96,4 @@ python3 bot.py
 • /broadcast - to broadcast a message to all Eva Maria users
 ```
 
-<a> (Devoleper)(https://t.me/madenz_offline)
+<b< Definitely

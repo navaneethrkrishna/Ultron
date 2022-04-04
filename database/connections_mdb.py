@@ -134,3 +134,4 @@ async def delete_connection(user_id, group_id):
         logger.exception(f'Some error occured! {e}', exc_info=True)
         return False
 
+Aq

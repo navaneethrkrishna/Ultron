@@ -243,4 +243,3 @@ async def box_blur(client, message):
                 )
             except Exception:
                 return
-A

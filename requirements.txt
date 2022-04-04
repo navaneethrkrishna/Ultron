@@ -33,3 +33,4 @@ ytthumb
 pypdf2
 PyPDF2
 pyshorteners
+Fun

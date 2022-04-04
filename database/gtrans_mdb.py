@@ -40,4 +40,4 @@ def getid():
     return values
 
 def find_one(id):
-	return mycol.find_one({"_id":id})
+	return mycol.find_one({"_id":id})"

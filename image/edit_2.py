@@ -395,4 +395,3 @@ async def cartoon(client, message):
                 )
             except Exception:
                 return
-A
